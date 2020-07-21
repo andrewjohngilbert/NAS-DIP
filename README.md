@@ -15,12 +15,12 @@ Kary Ho<sup>[1]</sup>, [Andrew Gilbert](https://www.surrey.ac.uk/people/andrew-g
 <div align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6JbqKdbHZb8
 " target="_blank"><img src="http://img.youtube.com/vi/6JbqKdbHZb8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="320" height="240" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>
 </div>
 
 ## Abstract
 
-We present a neural architecture search (NAS) technique to enhance the performance of image de-noising, in-painting, and super-resolution tasks under the recently proposed Deep Image Prior (DIP).  We show that evolutionary search can automatically optimize the encoder-decoder (E-D) structure and meta-parameters of the DIP network, which serves as a content-specific prior to regularize these single image restoration tasks.  Our binary representation encodes the design space for an asymmetric E-D network that typically converges to yield a content-specific DIP within 10-20 generations using a population size of $500$. The optimized architectures consistently improve upon the visual quality of classical DIP for a diverse range of photographic and artistic content.
+We present a neural architecture search (NAS) technique to enhance the performance of image de-noising, in-painting, and super-resolution tasks under the recently proposed Deep Image Prior (DIP).  We show that evolutionary search can automatically optimize the encoder-decoder (E-D) structure and meta-parameters of the DIP network, which serves as a content-specific prior to regularize these single image restoration tasks.  Our binary representation encodes the design space for an asymmetric E-D network that typically converges to yield a content-specific DIP within 10-20 generations using a population size of 500. The optimized architectures consistently improve upon the visual quality of classical DIP for a diverse range of photographic and artistic content.
 
 ## Paper
 
