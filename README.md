@@ -1,18 +1,22 @@
-#  Neural Architecture Search for Deep Image Prior" 
-
-
-Kary Ho<sup>[1]</sup>, Andrew Gilbert<sup>[1]</sup>, Hailin Jin<sup>[2]</sup>, John Collomosse<sup>[1,2]</sup>
-
-<sup>[1]</sup> Centre for Vision Speech and Signal Processing,
-University of Surrey
-
-<sup>[2]</sup> Creative Intelligence Lab, Adobe Research
 
 <div align="center">
-arXiv:2001.04776
+	
+#  Neural Architecture Search for Deep Image Prior \
+\
+Kary Ho<sup>[1]</sup>, Andrew Gilbert<sup>[1]</sup>, Hailin Jin<sup>[2]</sup>, John Collomosse<sup>[1,2]</sup> \
+<sup>[1]</sup> Centre for Vision Speech and Signal Processing, University of Surrey \
+<sup>[2]</sup> Creative Intelligence Lab, Adobe Research \
+\
+\
+ [arXiv:2001.04776](https://arxiv.org/abs/2001.04776)
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6JbqKdbHZb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/6JbqKdbHZb8" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 
 ## Abstract
