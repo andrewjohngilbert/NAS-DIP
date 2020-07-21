@@ -25,7 +25,6 @@ We present a neural architecture search (NAS) technique to enhance the performan
 ## Paper
 
 [![alt text](https://github.com/wackygerbs/NAS-DIP/blob/master/FrontPage.png)](https://arxiv.org/abs/2001.04776) 
-[![alt text](https://github.com/wackygerbs/NAS-DIP/blob/master/PDF_file_icon.png)](https://arxiv.org/abs/2001.04776) 
 
 ## Citation
 
