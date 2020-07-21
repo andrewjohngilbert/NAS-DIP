@@ -28,11 +28,14 @@ We present a neural architecture search (NAS) technique to enhance the performan
 [![alt text](https://github.com/wackygerbs/NAS-DIP/blob/master/PDF_file_icon.png)](https://arxiv.org/abs/2001.04776) 
 
 ## Citation
+
+please cite our paper if it interest you.
+
 ```
-				@INPROCEEDINGS{Ho20,
-				title = {Neural Architecture Search for Deep Image Prior},
-				year={2020},
-				booktitle={arXiv preprint arXiv:2001.04776}, 
-				author={Ho, K. and Gilbert, A. and Jin, H. and Collomosse, J.} 
-				}
+@INPROCEEDINGS{Ho20,
+  title = {Neural Architecture Search for Deep Image Prior},
+  year={2020},
+  booktitle={arXiv preprint arXiv:2001.04776}, 
+  author={Ho, K. and Gilbert, A. and Jin, H. and Collomosse, J.} 
+}
 ```
