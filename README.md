@@ -11,13 +11,9 @@ Kary Ho<sup>[1]</sup>, Andrew Gilbert<sup>[1]</sup>, Hailin Jin<sup>[2]</sup>, J
  [arXiv:2001.04776](https://arxiv.org/abs/2001.04776)
 </div>
 
-
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/6JbqKdbHZb8" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-
+<div align="center">
+[![Neural Architecture Search for Deep Image Prior Overview](http://img.youtube.com/vi/6JbqKdbHZb8/0.jpg)](http://www.youtube.com/watch?v=6JbqKdbHZb8 "Neural Architecture Search for Deep Image Prior Overview")
+</div>
 
 ## Abstract
 
@@ -25,16 +21,18 @@ We present a neural architecture search (NAS) technique to enhance the performan
 
 ## Paper
 
+[![alt text][FrontPage.png]][https://arxiv.org/abs/2001.04776] [![alt text][PDF_file_icon.png]][https://arxiv.org/abs/2001.04776]
+
 
 ## Citation
-@INPROCEEDINGS{Ho20,
+'@INPROCEEDINGS{Ho20,
 				title = {Neural Architecture Search for Deep Image Prior},
 				year={2020},
 				booktitle={arXiv preprint arXiv:2001.04776}, 
 				author={Ho, K. and Gilbert, A. and Jin, H. and Collomosse, J.}
-			}
+			}'
 '
 
-![alt text](image.jpg)
+!
 
 [title](https://www.example.com)
