@@ -3,7 +3,7 @@
 	
 #  Neural Architecture Search for Deep Image Prior
 \
-Kary Ho<sup>[1]</sup>, [Andrew Gilbert](https://www.surrey.ac.uk/people/andrew-gilbert)<sup>[1]</sup>, [Hailin Jin](https://research.adobe.com/person/hailin-jin/)<sup>[2]</sup>, [John Collomosse](http://personal.ee.surrey.ac.uk/Personal/J.Collomosse/index.php)<sup>[1,2]</sup> \
+Kary Ho<sup>[1]</sup>, <a target="_blank" href="https://www.surrey.ac.uk/people/andrew-gilbert">Andrew Gilbert</a><sup>[1]</sup>, [Hailin Jin](https://research.adobe.com/person/hailin-jin/)<sup>[2]</sup>, [John Collomosse](http://personal.ee.surrey.ac.uk/Personal/J.Collomosse/index.php)<sup>[1,2]</sup> \
 <sup>[1]</sup> Centre for Vision Speech and Signal Processing, University of Surrey \
 <sup>[2]</sup> Creative Intelligence Lab, Adobe Research \
 \
